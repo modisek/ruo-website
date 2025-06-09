@@ -39,7 +39,7 @@ const slides: Slide[] = [
     title: "Quality Stock Feed",
     subtitle: "For Healthy Livestock",
     description: "Supporting Botswana's farming community with high-quality products for improved animal health and productivity",
-    image: "https://images.unsplash.com/photo-1517022812141-23620dba5c23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2742&q=80",
+    image: "https://images.unsplash.com/photo-1622837699015-9a4cb8b7a94b?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     ctaLink: "/products/feed",
   },
 

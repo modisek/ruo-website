@@ -13,7 +13,7 @@ const Footer = () => {
           <div className="col-span-1">
             <Logo className="h-16 w-auto mb-4" />
             <p className="text-gray-600 text-sm mt-4">
-              Your reliable partner for all agricultural needs. Providing quality products for farmers since 2010.
+              Your reliable partner for all agricultural needs. Providing quality products for farmers.
             </p>
           </div>
 

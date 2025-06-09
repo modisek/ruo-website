@@ -42,7 +42,8 @@ const CompanyHistory = () => {
             <div className="relative z-10">
               <img
                 src="
-                https://images.unsplash.com/photo-1500595046743-cd271d694d30?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    https://images.unsplash.com/photo-1708618642187-5075ca741833?q=80&w=3032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+                "
                 alt="Ruolame store"
                 className="w-full h-auto rounded-lg shadow-lg"
               />

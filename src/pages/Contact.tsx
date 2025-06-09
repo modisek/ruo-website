@@ -6,12 +6,12 @@ import Map from '@/components/contact/Map';
 const Contact = () => {
   return (
     <div className="min-h-screen pt-16">
-      <PageHeader 
-        title="Contact Us" 
+      <PageHeader
+        title="Contact Us"
         subtitle="Get in touch with our team for any inquiries or support."
         noBackground
       />
-      
+
       <section className="py-16">
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
@@ -23,17 +23,17 @@ const Contact = () => {
               </p>
               <ContactForm />
             </div>
-            
+
             {/* Map and Contact Info */}
             <div>
               <h2 className="text-3xl font-bold mb-6">Find <span className="text-primary">Us</span></h2>
               <div className="mb-8">
                 <Map />
               </div>
-              
+
               <div className="bg-white p-6 rounded-lg shadow-md">
                 <h3 className="text-xl font-semibold mb-4">Contact Information</h3>
-                
+
                 <div className="space-y-4">
                   <div className="flex">
                     <div className="w-12 h-12 rounded-full bg-primary-light flex items-center justify-center flex-shrink-0">
@@ -44,10 +44,11 @@ const Contact = () => {
                     </div>
                     <div className="ml-4">
                       <h4 className="font-medium text-gray-900">Address</h4>
-                      <p className="text-gray-600">Plot 8423, Gaborone Main Mall, Gaborone Botswana</p>
+                      <p className="text-gray-600">Bokaa,Machailo ward, behind Matronaat Lounge<br />
+                        Botswana</p>
                     </div>
                   </div>
-                  
+
                   <div className="flex">
                     <div className="w-12 h-12 rounded-full bg-primary-light flex items-center justify-center flex-shrink-0">
                       <svg className="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -59,7 +60,7 @@ const Contact = () => {
                       <p className="text-gray-600">+267 76 668 077</p>
                     </div>
                   </div>
-                  
+
                   <div className="flex">
                     <div className="w-12 h-12 rounded-full bg-primary-light flex items-center justify-center flex-shrink-0">
                       <svg className="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -71,7 +72,7 @@ const Contact = () => {
                       <p className="text-gray-600">info@ruolame.co.bw</p>
                     </div>
                   </div>
-                  
+
                   <div className="flex">
                     <div className="w-12 h-12 rounded-full bg-primary-light flex items-center justify-center flex-shrink-0">
                       <svg className="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
