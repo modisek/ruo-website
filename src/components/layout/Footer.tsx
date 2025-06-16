@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Logo and About */}
           <div className="col-span-1">
-            <Logo className="h-16 w-auto mb-4" />
+            <Logo className="h-21 w-auto mb-4" />
             <p className="text-gray-600 text-sm mt-4">
               Your reliable partner for all agricultural needs. Providing quality products for farmers.
             </p>

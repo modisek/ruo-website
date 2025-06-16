@@ -23,7 +23,7 @@ const products: Product[] = [
     "category": "grain",
     "price": 19.95,
     "description": "High-quality wheat/korong for various uses.",
-    "image": "/public/korong.jpeg"
+    "image": "/korong.jpeg"
   },
   {
     "id": "2",
@@ -151,7 +151,7 @@ const products: Product[] = [
     "category": "feed",
     "price": 404.95,
     "description": "Specialized feed for growing broilers.",
-    "image": null
+    "image": "/broiler-grower.jpeg"
   },
   {
     "id": "19",
@@ -159,7 +159,7 @@ const products: Product[] = [
     "category": "feed",
     "price": 376.95,
     "description": "Feed for finishing broilers.",
-    "image": null
+    "image": "/broiler-finisher.jpeg"
   },
   {
     "id": "20",
@@ -167,7 +167,7 @@ const products: Product[] = [
     "category": "feed",
     "price": 332.95,
     "description": "Nutritious mash for laying hens.",
-    "image": null
+    "image": "/layers-mash.jpeg"
   },
   {
     "id": "21",
@@ -175,7 +175,7 @@ const products: Product[] = [
     "category": "feed",
     "price": 32.65,
     "description": "Starter feed for young broilers.",
-    "image": null
+    "image": "/broiler-starter-anbo.jpeg"
   },
   {
     "id": "22",
@@ -183,7 +183,7 @@ const products: Product[] = [
     "category": "feed",
     "price": 54.45,
     "description": "Starter feed for young broilers.",
-    "image": null
+    "image": "/broiler-starter-anbo.jpeg"
   },
   {
     "id": "23",
@@ -191,7 +191,7 @@ const products: Product[] = [
     "category": "feed",
     "price": 130.75,
     "description": "Starter feed for young broilers.",
-    "image": null
+    "image": "/broiler-starter-anbo.jpeg"
   },
   {
     "id": "24",
@@ -199,7 +199,7 @@ const products: Product[] = [
     "category": "feed",
     "price": 439.95,
     "description": "Starter feed for young broilers.",
-    "image": null
+    "image": "/broiler-starter-anbo.jpeg"
   },
   {
     "id": "25",
@@ -207,7 +207,7 @@ const products: Product[] = [
     "category": "feed",
     "price": 63.75,
     "description": "Feed for growing broilers.",
-    "image": null
+    "image": "/anbo.jpeg"
   },
   {
     "id": "26",
@@ -215,7 +215,7 @@ const products: Product[] = [
     "category": "feed",
     "price": 126.95,
     "description": "Feed for growing broilers.",
-    "image": null
+    "image": "/anbo.jpeg"
   },
   {
     "id": "27",
@@ -223,7 +223,7 @@ const products: Product[] = [
     "category": "feed",
     "price": 422.50,
     "description": "Feed for growing broilers.",
-    "image": null
+    "image": "/anbo.jpeg"
   },
   {
     "id": "28",
@@ -231,7 +231,7 @@ const products: Product[] = [
     "category": "feed",
     "price": 422.50,
     "description": "Feed for finishing broilers.",
-    "image": null
+    "image": "/anbo.jpeg"
   },
   {
     "id": "29",
@@ -239,7 +239,7 @@ const products: Product[] = [
     "category": "feed",
     "price": 46.85,
     "description": "Mash for laying hens.",
-    "image": null
+    "image": "/anbo.jpeg"
   },
   {
     "id": "30",
@@ -276,7 +276,7 @@ const products: Product[] = [
   {
     "id": "34",
     "name": "Tsabana Bran",
-    "category": "feed",
+    "category": "supplement",
     "price": 150.00,
     "description": "Bran feed for livestock.",
     "image": null
@@ -287,7 +287,7 @@ const products: Product[] = [
     "category": "feed",
     "price": 230.95,
     "description": "Feed for finishing livestock in feedlots.",
-    "image": null
+    "image": "/feedlot-finisher.jpeg"
   },
   {
     "id": "36",
@@ -295,7 +295,7 @@ const products: Product[] = [
     "category": "feed",
     "price": 210.00,
     "description": "Specialized ration for bulls.",
-    "image": null
+    "image": "/bull-ration.jpeg"
   },
   {
     "id": "37",
@@ -311,7 +311,7 @@ const products: Product[] = [
     "category": "equipment",
     "price": 59.95,
     "description": "4L capacity drinker for poultry.",
-    "image": "./public/drinker.jpeg"
+    "image": "/drinker.jpeg"
   },
   {
     "id": "39",
@@ -319,7 +319,7 @@ const products: Product[] = [
     "category": "equipment",
     "price": 34.95,
     "description": "750ml drinker for chicks.",
-    "image": null
+    "image": "/drinker.jpeg"
   },
   {
     "id": "40",
@@ -327,7 +327,7 @@ const products: Product[] = [
     "category": "equipment",
     "price": 49.95,
     "description": "Hinged feeder for chicks.",
-    "image": null
+    "image": "/chicken.jpeg"
   },
   {
     "id": "41",
@@ -335,7 +335,7 @@ const products: Product[] = [
     "category": "equipment",
     "price": 74.95,
     "description": "Complete feeder for chicks.",
-    "image": null
+    "image": "/feeder.jpeg"
   },
   {
     "id": "42",
@@ -343,7 +343,7 @@ const products: Product[] = [
     "category": "equipment",
     "price": 3.00,
     "description": "Egg curtain for poultry nesting.",
-    "image": null
+    "image": "/egg-carton.jpeg"
   }
 ];
 

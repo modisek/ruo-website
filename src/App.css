@@ -6,10 +6,12 @@
 }
 
 .logo {
-    height: 6em;
-    padding: 1.5em;
+    /* height: 6em; */
+    /* padding: 1.5em; */
     will-change: filter;
     transition: filter 300ms;
+    height: 150px;
+    margin-top: -50px;
 }
 
 .logo:hover {
@@ -42,4 +44,15 @@
 
 .read-the-docs {
     color: #888;
+}
+
+.rou-lg.h-full.w-auto {
+    height: 150px;
+    margin-top: -50px;
+
+}
+
+img.rou-lg.h-full.w-auto {
+    width: 200px !important;
+    height: 100px !important;
 }

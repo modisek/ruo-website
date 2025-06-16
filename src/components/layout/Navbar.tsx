@@ -38,7 +38,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center">
           {/* Logo */}
-          <Logo className="h-14 w-auto" />
+          <Logo className="h-16 w-auto" />
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-10">
